@@ -4,11 +4,12 @@
 
 where I achieved a first class degree BEng and have seven years of experience in engineering, specialising in production and design
 
-Check out my portfolio: tinyurl.com/cjmcardle
+Check out my portfolio: https://tinyurl.com/cjmcardle
 
 ✨ Recently, I've developed a strong passion for web development and I'm eager to transition into the front-end development field.
 
-🔥 My Interest in web development sparked when I was tasked with redesigning the test procedure at Protec Fire Detection. I used modern web-dev technologies to design and incorporate a fully interactive user interface to factory test and program electronic devices.
+🔥 My Interest in web development sparked when I was tasked with redesigning the test procedure at Protec Fire Detection.
+   I uitlised modern web-dev technologies to design and incorporate a fully interactive user interface to factory test and program electronic devices.
 
 🌐 My Skills:
 
